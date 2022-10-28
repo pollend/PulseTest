@@ -1,0 +1,23 @@
+{
+    "project_name": "PulseTest",
+    "project_id": "{752B0558-8763-4FCC-B5DA-0A1A78598E5D}",
+    "origin": "The primary repo for PulseTest goes here: i.e. http://www.mydomain.com",
+    "license": "What license PulseTest uses goes here: i.e. https://opensource.org/licenses/Apache-2.0 Or https://opensource.org/licenses/MIT etc.",
+    "display_name": "PulseTest",
+    "summary": "A short description of PulseTest.",
+    "canonical_tags": [
+        "Project"
+    ],
+    "user_tags": [
+        "PulseTest"
+    ],
+    "icon_path": "preview.png",
+    "engine": "o3de",
+    "external_subdirectories": [
+        "Gem",
+        "Gems/PulseEngine"
+    ],
+    "restricted": "PulseTest",
+    "gem_names": [
+    ]
+}

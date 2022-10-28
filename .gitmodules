@@ -1,0 +1,3 @@
+[submodule "Gems/PulseEngine"]
+	path = Gems/PulseEngine
+	url = git@github.com:pollend/PulseEngine.git
